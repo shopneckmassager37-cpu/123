@@ -1,0 +1,7 @@
+{
+  "name": "Prague Kosher Guide",
+  "description": "A comprehensive 7-day travel itinerary for Prague (April 5-11), tailored for Shabbat-observant travelers, including Kosher dining, hotels near the Jewish Quarter, and must-see attractions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
